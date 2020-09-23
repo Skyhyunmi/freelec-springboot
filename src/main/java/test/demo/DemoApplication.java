@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //@EnableJpaAuditing
+//test
 @SpringBootApplication
 public class DemoApplication {
 
